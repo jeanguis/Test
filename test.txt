@@ -1,0 +1,22 @@
+	p51s_dhfz7_ch_cale
+	p51s_fz7_ch_cale
+	coefp51bd7_ch
+	// td_p51g_d7_ch	
+	p51m_d7_ch_cale
+	coefp51pd7_ch
+
+/* P6 - Exports */
+	// td_p6_az7_ch 
+	p6_dim7_ch_cale	// en volume td_p6_dimhc27_ch sert de solde en volume */
+	coefp6c27_ch
+	// td_p6_de7_ch	
+	p6_serv7_ch_cale
+	coefp6pchtr7_ch	
+
+/* P7 - Imports */
+	// td_p7_az7_ch	 
+	p7_dim7_ch_cale	//td_p7_dimhc2 sert de solde en volume
+	coefp7c27_ch
+	p7_de7_ch_cale				
+	p7_serv7_ch_cale
+	coefp7pchtr7_ch 
